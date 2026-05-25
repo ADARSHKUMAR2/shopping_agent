@@ -10,4 +10,5 @@ dependencies = [
     "openai>=2.38.0",
     "openai-agents>=0.17.3",
     "playwright>=1.60.0",
+    "playwright-stealth>=2.0.3",
 ]
